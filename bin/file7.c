@@ -1,0 +1,9 @@
+codeLine*/
+    //noteLine
+            out.write(outputBuffer);//codeline
+*/codeLine
+            out.flush();/*codeLine*/
+            out.close();
+}//noteLine
+for(){
+}/*noteLine*/
